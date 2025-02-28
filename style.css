@@ -1,0 +1,59 @@
+#topbar {
+  background-color: #082a4a;
+}
+
+#welcome,
+#services {
+  padding-top: 115px;
+  padding-bottom: 115px;
+}
+
+#services {
+  background-color: #eef2f6;
+}
+
+#block1 {
+  background: linear-gradient(to right, #c05ea9, #5a2c50);
+}
+
+#block2 {
+  background: linear-gradient(to right, #a13172, #c33e8b);
+}
+
+#block3 {
+  background: linear-gradient(to right, #e73056, #e95038);
+}
+
+#block4 {
+  background: linear-gradient(to right, #f28a19, #f9b107);
+}
+
+#block5 {
+  background: linear-gradient(to right, #77ac43, #94ca5f);
+}
+
+#block6 {
+  background: linear-gradient(to right, #235683, #048fa3);
+}
+
+#block7 {
+  background: linear-gradient(to right, #48b2bc, #95d0d3);
+}
+
+#block8 {
+  background: linear-gradient(to right, #279a96, #2eaea9);
+}
+
+#contact {
+  background-color: #eef2f6;
+}
+
+.btn-prospective {
+  background: #48bef1;
+  border-color: #2e82d0;
+}
+
+.btn-prospective:hover {
+  background: #2d7290;
+  color: white;
+}
